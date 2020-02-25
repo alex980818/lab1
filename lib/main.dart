@@ -13,7 +13,6 @@ class _MyAppState extends State<MyApp> {
   final TextEditingController _ccontroller = TextEditingController();
   final TextEditingController _dcontroller = TextEditingController();
   double a, b, c, d, e, f;
-  int j = 1;
   int _value, ans_e, ans_f;
 
   @override
